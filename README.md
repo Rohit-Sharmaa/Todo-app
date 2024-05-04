@@ -48,7 +48,3 @@ This command will start the server and launch the application in your default we
 ## Contributing
 
 Feel free to contribute to this project by forking the repository and submitting a pull request. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
-
-```
-
-```
